@@ -4179,3 +4179,12 @@
 4/28/2025 | 4:17:10 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
 4/28/2025 | 4:17:10 AM | INFO | Trying to activate mining on-chain for wallet: 0x1Afeba582f03237451D2a95225F7C010a31213bF 
 4/28/2025 | 4:17:16 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0xf9f7a311bf4b2987c474b9846916d75102eba5005a05c9ba77aa5d14df84617a 
+4/28/2025 | 8:41:17 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+4/28/2025 | 8:41:18 AM | INFO | Start process for wallet 0x1Afeba582f03237451D2a95225F7C010a31213bF 
+4/28/2025 | 8:41:18 AM | INFO | Trying To Login for wallet: 0x1Afeba582f03237451D2a95225F7C010a31213bF 
+4/28/2025 | 8:41:19 AM | INFO | Login successful... 
+4/28/2025 | 8:41:19 AM | INFO | Trying to check user info... 
+4/28/2025 | 8:41:20 AM | INFO | User ID: 102591690 | Twitter: @gnavira | Total Points: 1560000 
+4/28/2025 | 8:41:20 AM | INFO | Trying to check user miner status... 
+4/28/2025 | 8:41:21 AM | INFO | Last mining time: 4/28/2025, 4:17:15 AM
+4/28/2025 | 8:41:21 AM | WARN | Mining already started, next mining time is: 4/29/2025, 4:17:15 AM
