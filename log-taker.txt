@@ -4972,3 +4972,15 @@
 5/12/2025 | 4:18:28 AM | INFO | Trying to activate mining on-chain for wallet: 0x1Afeba582f03237451D2a95225F7C010a31213bF 
 5/12/2025 | 4:18:51 AM | ERROR | Activate Mining Error: {"code":"UNKNOWN_ERROR","error":{"code":-32603,"message":"submit transaction to pool failed: Ok(ImmediatelyDropped)"},"payload":{"method":"eth_sendRawTransaction","params":["0x02f86b8204655280831e848082ed9594b3efe5105b835e5dd9d206445dbd66df24b912ab808402fb0c5ec080a00317218659379c3d3594b04cf20eb2373f2d7759d805c1b9d3a95322198b75a4a033fae55e94fe170e6599d77e5e376daf2956003c0635f834a5075a59b0df4c32"],"id":10,"jsonrpc":"2.0"},"shortMessage":"could not coalesce error"}
 5/12/2025 | 4:18:51 AM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+5/12/2025 | 8:19:26 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/12/2025 | 8:19:27 AM | INFO | Start process for wallet 0x1Afeba582f03237451D2a95225F7C010a31213bF 
+5/12/2025 | 8:19:27 AM | INFO | Trying To Login for wallet: 0x1Afeba582f03237451D2a95225F7C010a31213bF 
+5/12/2025 | 8:19:28 AM | INFO | Login successful... 
+5/12/2025 | 8:19:28 AM | INFO | Trying to check user info... 
+5/12/2025 | 8:19:29 AM | INFO | User ID: 102591690 | Twitter: @gnavira | Total Points: 1848000 
+5/12/2025 | 8:19:29 AM | INFO | Trying to check user miner status... 
+5/12/2025 | 8:19:34 AM | INFO | Last mining time: 5/11/2025, 1:11:03 AM
+5/12/2025 | 8:19:34 AM | INFO | Trying to start Mining for wallet: 0x1Afeba582f03237451D2a95225F7C010a31213bF 
+5/12/2025 | 8:19:41 AM | INFO | Mine response: {"code":500,"msg":"startMining Fail, startMining has not reached refresh time","data":null}
+5/12/2025 | 8:19:41 AM | INFO | Trying to activate mining on-chain for wallet: 0x1Afeba582f03237451D2a95225F7C010a31213bF 
+5/12/2025 | 8:20:07 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x2eb8210c623066d3ac2c0e3db3e65990bda4d5606b79a22599a5204e6a2fffba 
