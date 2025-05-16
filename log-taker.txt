@@ -5191,3 +5191,15 @@
 5/15/2025 | 8:15:32 PM | INFO | Trying to activate mining on-chain for wallet: 0x1Afeba582f03237451D2a95225F7C010a31213bF 
 5/15/2025 | 8:15:32 PM | ERROR | Activate Mining Error: {"code":"SERVER_ERROR","request":{},"response":{},"info":{"requestUrl":"https://rpc-mainnet.taker.xyz/","responseBody":"<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.26.2</center>\r\n</body>\r\n</html>\r\n","responseStatus":"502 Bad Gateway"},"shortMessage":"server response 502 Bad Gateway"}
 5/15/2025 | 8:15:32 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+5/16/2025 | 1:07:45 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/16/2025 | 1:07:45 AM | INFO | Start process for wallet 0x1Afeba582f03237451D2a95225F7C010a31213bF 
+5/16/2025 | 1:07:46 AM | INFO | Trying To Login for wallet: 0x1Afeba582f03237451D2a95225F7C010a31213bF 
+5/16/2025 | 1:07:47 AM | INFO | Login successful... 
+5/16/2025 | 1:07:47 AM | INFO | Trying to check user info... 
+5/16/2025 | 1:07:48 AM | INFO | User ID: 102591690 | Twitter: @gnavira | Total Points: 1896000 
+5/16/2025 | 1:07:48 AM | INFO | Trying to check user miner status... 
+5/16/2025 | 1:07:49 AM | INFO | Last mining time: 5/14/2025, 4:18:24 PM
+5/16/2025 | 1:07:49 AM | INFO | Trying to start Mining for wallet: 0x1Afeba582f03237451D2a95225F7C010a31213bF 
+5/16/2025 | 1:07:49 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+5/16/2025 | 1:07:49 AM | INFO | Trying to activate mining on-chain for wallet: 0x1Afeba582f03237451D2a95225F7C010a31213bF 
+5/16/2025 | 1:08:01 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0xd745450f255ad7533ec31b272ef66fd115676883c11db1f679ee42fdc84714b9 
