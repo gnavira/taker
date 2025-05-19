@@ -5375,3 +5375,15 @@
 5/19/2025 | 1:11:37 AM | INFO | Trying to activate mining on-chain for wallet: 0x1Afeba582f03237451D2a95225F7C010a31213bF 
 5/19/2025 | 1:13:53 AM | ERROR | Activate Mining Error: {"errno":-110,"code":"ETIMEDOUT","syscall":"connect","address":"101.47.19.33","port":443}
 5/19/2025 | 1:13:53 AM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+5/19/2025 | 4:22:08 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/19/2025 | 4:22:08 AM | INFO | Start process for wallet 0x1Afeba582f03237451D2a95225F7C010a31213bF 
+5/19/2025 | 4:22:09 AM | INFO | Trying To Login for wallet: 0x1Afeba582f03237451D2a95225F7C010a31213bF 
+5/19/2025 | 4:22:10 AM | INFO | Login successful... 
+5/19/2025 | 4:22:10 AM | INFO | Trying to check user info... 
+5/19/2025 | 4:22:10 AM | INFO | User ID: 102591690 | Twitter: @gnavira | Total Points: 1968000 
+5/19/2025 | 4:22:10 AM | INFO | Trying to check user miner status... 
+5/19/2025 | 4:22:11 AM | INFO | Last mining time: 5/18/2025, 4:19:57 AM
+5/19/2025 | 4:22:11 AM | INFO | Trying to start Mining for wallet: 0x1Afeba582f03237451D2a95225F7C010a31213bF 
+5/19/2025 | 4:22:12 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+5/19/2025 | 4:22:12 AM | INFO | Trying to activate mining on-chain for wallet: 0x1Afeba582f03237451D2a95225F7C010a31213bF 
+5/19/2025 | 4:22:24 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x6d743281ae53eee93a03755b2ccf9e6a7798de1b7b3355cedd7f63255d979109 
