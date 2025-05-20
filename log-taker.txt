@@ -5441,3 +5441,16 @@
 5/20/2025 | 4:17:35 AM | INFO | Trying to check user miner status... 
 5/20/2025 | 4:17:50 AM | INFO | Last mining time: 5/19/2025, 4:22:21 AM
 5/20/2025 | 4:17:50 AM | WARN | Mining already started, next mining time is: 5/20/2025, 4:22:21 AM
+5/20/2025 | 8:19:28 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/20/2025 | 8:19:28 AM | INFO | Start process for wallet 0x1Afeba582f03237451D2a95225F7C010a31213bF 
+5/20/2025 | 8:19:29 AM | INFO | Trying To Login for wallet: 0x1Afeba582f03237451D2a95225F7C010a31213bF 
+5/20/2025 | 8:19:30 AM | INFO | Login successful... 
+5/20/2025 | 8:19:30 AM | INFO | Trying to check user info... 
+5/20/2025 | 8:19:30 AM | INFO | User ID: 102591690 | Twitter: @gnavira | Total Points: 1992000 
+5/20/2025 | 8:19:30 AM | INFO | Trying to check user miner status... 
+5/20/2025 | 8:19:31 AM | INFO | Last mining time: 5/19/2025, 4:22:21 AM
+5/20/2025 | 8:19:31 AM | INFO | Trying to start Mining for wallet: 0x1Afeba582f03237451D2a95225F7C010a31213bF 
+5/20/2025 | 8:19:32 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+5/20/2025 | 8:19:32 AM | INFO | Trying to activate mining on-chain for wallet: 0x1Afeba582f03237451D2a95225F7C010a31213bF 
+5/20/2025 | 8:19:34 AM | ERROR | Activate Mining Error: {"code":"CALL_EXCEPTION","action":"estimateGas","data":null,"reason":null,"transaction":{"to":"0xB3eFE5105b835E5Dd9D206445Dbd66DF24b912AB","data":"0x02fb0c5e","from":"0x1Afeba582f03237451D2a95225F7C010a31213bF"},"invocation":null,"revert":null,"shortMessage":"missing revert data","info":{"error":{"code":-32603,"message":"execution fatal: Module(ModuleError { index: 40, error: [5, 0, 0, 0], message: None })"},"payload":{"method":"eth_estimateGas","params":[{"nonce":"0x18","from":"0x1afeba582f03237451d2a95225f7c010a31213bf","to":"0xb3efe5105b835e5dd9d206445dbd66df24b912ab","data":"0x02fb0c5e"}],"id":3,"jsonrpc":"2.0"}}}
+5/20/2025 | 8:19:34 AM | ERROR | Wallet already start mine today or wallet dont have taker balance 
