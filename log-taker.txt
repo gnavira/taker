@@ -7385,3 +7385,15 @@
 6/23/2025 | 4:35:59 AM | WARN | Retrying... (0 attempts left) 
 6/23/2025 | 4:38:18 AM | ERROR | Failed to get nonce after retries: connect ETIMEDOUT 101.47.181.18:443
 6/23/2025 | 4:38:18 AM | ERROR | Failed to retrieve nonce for wallet: 0x1Afeba582f03237451D2a95225F7C010a31213bF 
+6/23/2025 | 8:20:27 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+6/23/2025 | 8:20:27 AM | INFO | Start process for wallet 0x1Afeba582f03237451D2a95225F7C010a31213bF 
+6/23/2025 | 8:20:28 AM | INFO | Trying To Login for wallet: 0x1Afeba582f03237451D2a95225F7C010a31213bF 
+6/23/2025 | 8:20:28 AM | INFO | Login successful... 
+6/23/2025 | 8:20:28 AM | INFO | Trying to check user info... 
+6/23/2025 | 8:20:29 AM | INFO | User ID: 102591690 | Twitter: @gnavira | Total Points: 2712000 
+6/23/2025 | 8:20:29 AM | INFO | Trying to check user miner status... 
+6/23/2025 | 8:20:30 AM | INFO | Last mining time: 6/22/2025, 4:25:45 AM
+6/23/2025 | 8:20:30 AM | INFO | Trying to start Mining for wallet: 0x1Afeba582f03237451D2a95225F7C010a31213bF 
+6/23/2025 | 8:20:30 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+6/23/2025 | 8:20:30 AM | INFO | Trying to activate mining on-chain for wallet: 0x1Afeba582f03237451D2a95225F7C010a31213bF 
+6/23/2025 | 8:20:47 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x30ea526420707f3388a197bba02fe3f0534f19bbf180695187ac682bcd0a72d2 
