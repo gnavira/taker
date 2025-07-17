@@ -8778,3 +8778,15 @@
 7/17/2025 | 4:18:52 PM | INFO | Trying to check user miner status... 
 7/17/2025 | 4:18:53 PM | INFO | Last mining time: 7/16/2025, 4:19:06 PM
 7/17/2025 | 4:18:53 PM | WARN | Mining already started, next mining time is: 7/17/2025, 4:19:06 PM
+7/17/2025 | 8:16:07 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+7/17/2025 | 8:16:07 PM | INFO | Start process for wallet 0x1Afeba582f03237451D2a95225F7C010a31213bF 
+7/17/2025 | 8:16:08 PM | INFO | Trying To Login for wallet: 0x1Afeba582f03237451D2a95225F7C010a31213bF 
+7/17/2025 | 8:16:09 PM | INFO | Login successful... 
+7/17/2025 | 8:16:09 PM | INFO | Trying to check user info... 
+7/17/2025 | 8:16:10 PM | INFO | User ID: 102591690 | Twitter: @gnavira | Total Points: 3240000 
+7/17/2025 | 8:16:10 PM | INFO | Trying to check user miner status... 
+7/17/2025 | 8:16:11 PM | INFO | Last mining time: 7/16/2025, 4:19:06 PM
+7/17/2025 | 8:16:11 PM | INFO | Trying to start Mining for wallet: 0x1Afeba582f03237451D2a95225F7C010a31213bF 
+7/17/2025 | 8:16:12 PM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+7/17/2025 | 8:16:12 PM | INFO | Trying to activate mining on-chain for wallet: 0x1Afeba582f03237451D2a95225F7C010a31213bF 
+7/17/2025 | 8:16:19 PM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x103d7a181cae45e978f6eb73ea2565ad70b2791542aff48be4cf137066403e09 
